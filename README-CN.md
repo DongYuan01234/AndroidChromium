@@ -1,11 +1,3 @@
-### 欢迎在GitHub或者掘金上关注我
-
-GitHub: https://github.com/JackyAndroid
-
-掘金: https://gold.xitu.io/user/562dc7cc60b20fc9817962a2
-
----
-
 # AndroidChromium
 ![](https://github.com/JackyAndroid/AndroidChromium/blob/master/app/src/main/res/mipmap-xhdpi/app_icon.png)
 

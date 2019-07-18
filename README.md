@@ -1,16 +1,7 @@
-### Welcome to follow me on GitHub or Gold
-
-GitHub: https://github.com/JackyAndroid
-
-Gold: https://gold.xitu.io/user/562dc7cc60b20fc9817962a2
-
-[中文版文档](https://github.com/JackyAndroid/AndroidChromium/blob/master/README-CN.md)
-
-![](http://www.jackywang.tech/images/gongzh.png)
-
----
-
 # AndroidChromium
+
+[中文文档](https://github.com/JackyAndroid/AndroidChromium/blob/master/README-CN.md)
+
 ![](https://github.com/JackyAndroid/AndroidChromium/blob/master/app/src/main/res/mipmap-xhdpi/app_icon.png)
 
 ### Brief Introduction
